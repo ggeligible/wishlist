@@ -15,7 +15,7 @@
 * [ ] [Rails Goat](https://github.com/OWASP/railsgoat)
 
 #### Ruby
-* [ ] 
+* [ ] [Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide](http://www.amazon.com/Programming-Ruby-1-9-2-0-Programmers/dp/1937785491/ref=sr_1_1?ie=UTF8&qid=1461533650&sr=8-1&keywords=programming+ruby)
 
 #### Linux Architecture and Operations
 * [ ] [Advanced Programming in the UNIX Environment](http://www.amazon.com/gp/product/0321637739/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321637739&linkCode=as2&tag=techops-20) by W. Richard Stevens and Stephen A. Rago

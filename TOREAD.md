@@ -16,3 +16,12 @@
 
 #### High Performance
 * [ ] [High Performance MySQL: Optimization, Backups, and Replication](http://www.amazon.com/High-Performance-MySQL-Optimization-Replication-ebook/dp/B007I8S1TY)
+
+#### Ruby
+* [ ] 
+
+#### Technical Operations
+* [ ]
+
+#### Design
+

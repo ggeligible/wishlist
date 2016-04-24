@@ -14,14 +14,21 @@
 #### Security
 * [ ] [Rails Goat](https://github.com/OWASP/railsgoat)
 
-#### High Performance
-* [ ] [High Performance MySQL: Optimization, Backups, and Replication](http://www.amazon.com/High-Performance-MySQL-Optimization-Replication-ebook/dp/B007I8S1TY)
-
 #### Ruby
 * [ ] 
 
-#### Technical Operations
-* [ ]
+#### Linux Architecture and Operations
+* [] [Advanced Programming in the UNIX Environment](http://www.amazon.com/gp/product/0321637739/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321637739&linkCode=as2&tag=techops-20) by W. Richard Stevens and Stephen A. Rago
+* [UNIX and Linux System Administration Handbook](http://www.amazon.com/gp/product/0131480057/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0131480057&linkCode=as2&tag=techops-20) by Evi Nemeth, Garth Snyder, Trent R. Hein and Ben Whaley
 
-#### Design
+#### Computer Networks and Protocols
+* [TCP/IP Illustrated, Volume 1: The Protocols (Addison-Wesley Professional Computing Series)](http://www.amazon.com/gp/product/B00666M52S/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00666M52S&linkCode=as2&tag=kovyrin-20&linkId=FJ43ARZJ5MCZKMXY) by Kevin R. Fall, W. Richard Stevens
+* [High Performance Browser Networking: What every web developer should know about networking and web performance](http://www.amazon.com/gp/product/B00FM0OC4S/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FM0OC4S&linkCode=as2&tag=kovyrin-20&linkId=LSGVB4XDWHJUJNJV) by Ilya Grigorik
+
+#### Databases and Data Storage Systems
+* [ ] [High Performance MySQL: Optimization, Backups, and Replication](http://www.amazon.com/High-Performance-MySQL-Optimization-Replication-ebook/dp/B007I8S1TY) by Baron Schwartz, Peter Zaitsev and Vadim Tkachenko
+
+#### Configuration Management, Automation and Monitoring
+* [ ] [Chef Infrastructure Automation Cookbook](http://www.amazon.com/gp/product/B00YJ64GEW/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00YJ64GEW&linkCode=as2&tag=kovyrin-20&linkId=NI5XW4FOCIL5JQXN) by Matthias Marschall
+* [ ] [Effective Monitoring and Alerting: For Web Operations](http://www.amazon.com/gp/product/B00ADVPNNK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00ADVPNNK&linkCode=as2&tag=kovyrin-20&linkId=BR4KVGNZ3AXHIPDD) by Slawek Ligus
 

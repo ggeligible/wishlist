@@ -8,17 +8,22 @@
 #### Articles
 * [ ] [systemd](http://0pointer.de/blog/projects/systemd-for-admins-1.html)
 
-#### Git Repos
-* [ ] [aws-vault](https://github.com/99designs/aws-vault)
 
 #### Project Management
 * [ ] Excel Pivot Table
 
 #### Security
 * [ ] [Rails Goat](https://github.com/OWASP/railsgoat)
+* [ ] [aws-vault](https://github.com/99designs/aws-vault)
+* [ ] [Verizon data breach investigation report](http://www.verizonenterprise.com/resources/reports/rp_DBIR_2016_Report_en_xg.pdf)
 
 #### Ruby
+* [ ] [Design Patterns in Ruby](http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452)
+* [ ] [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-ebook/dp/B004MMEJ36/ref=mt_kindle?_encoding=UTF8&me=)
+* [ ] [Ruby Koans](http://rubykoans.com/)
 * [ ] [Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide](http://www.amazon.com/Programming-Ruby-1-9-2-0-Programmers/dp/1937785491/ref=sr_1_1?ie=UTF8&qid=1461533650&sr=8-1&keywords=programming+ruby)
+ 
+#### Rails
 
 #### Linux Architecture and Operations
 * [ ] [Advanced Programming in the UNIX Environment](http://www.amazon.com/gp/product/0321637739/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321637739&linkCode=as2&tag=techops-20) by W. Richard Stevens and Stephen A. Rago

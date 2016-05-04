@@ -1,6 +1,7 @@
 ### TO Read
 
-#### Books
+#### Technical Magazines
+* [ ] [Prag Prog](https://pragprog.com/magazines)
 
 #### AI
 * [ ] [OpenAI Gym](https://gym.openai.com/)

@@ -5,6 +5,7 @@
 
 #### AI
 * [ ] [OpenAI Gym](https://gym.openai.com/)
+* [ ] [AIGames](http://theaigames.com/)
 
 #### Articles
 * [ ] [systemd](http://0pointer.de/blog/projects/systemd-for-admins-1.html)

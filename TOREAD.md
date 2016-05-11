@@ -1,6 +1,7 @@
 ### TO Read
 
 #### Technical Magazines
+* [ ] [Essential C](http://cslibrary.stanford.edu/101/)
 * [ ] [Prag Prog](https://pragprog.com/magazines)
 
 #### AI
